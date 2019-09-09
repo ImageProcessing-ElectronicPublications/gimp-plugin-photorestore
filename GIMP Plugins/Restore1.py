@@ -313,7 +313,7 @@ register(
     "Geoff Daniell, geoff@lionhouse.plus.com",
     "Geoff Daniell",
     "2008",
-    "<Image>/Restore/Restore1",
+    "<Image>/Colors/Auto/Restore1",
     "",
     [
         (PF_TOGGLE, "shift", "Make less blue", True),

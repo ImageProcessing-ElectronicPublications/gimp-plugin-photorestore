@@ -422,7 +422,7 @@ register(
   "Geoff Daniell, gjd@lionhouse.plus.com",
   "Geoff Daniell",
   "2016",
-  "<Image>/Restore/Restore2", "",
+  "<Image>/Colors/Auto/Restore2", "",
   [
       (PF_SLIDER, "gammatarg", "Light-Dark",  1.0, (0.5, 2.0, 0.25)),
       (PF_RADIO,  "sat_choice",  "Saturation\nadjustment", 1, (("Off", 0), ("On", 1))),
